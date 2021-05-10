@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/WalkingMysteryMain.unity
+    guid: 98b1e55a47979ef4aa4767736b39a0d9
   m_configObjects: {}
