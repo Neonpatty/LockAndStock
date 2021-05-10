@@ -13458,6 +13458,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 780dfd1a673007f4fb8869e67873ea93, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.64089847
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 780dfd1a673007f4fb8869e67873ea93, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7369691
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 780dfd1a673007f4fb8869e67873ea93, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.64089847
+      objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: 780dfd1a673007f4fb8869e67873ea93, type: 3}
       propertyPath: m_Materials.Array.data[2]
       value: 
@@ -15811,7 +15823,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 8.598e-42, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 6.54e-43, y: 9.4e-44, z: 0, w: 28.806198}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
